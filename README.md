@@ -67,9 +67,13 @@
 - 跨境电商的 AI 选品
 - 县城零售的私域运营
 
-### 第 2 步:加载 Skill
+### 第 2 步:安装 Skill(两种办法)
 
-把这个 repo 的 `skills/hv-analysis/` 目录放到你的 AI 工具能识别的位置,然后告诉 AI:
+**办法 A — 让 AI 自己装(零基础推荐)**:下载本仓库 ZIP 解压后,在 AI 里说一句话让它自己装。详见 **[安装说明.md](安装说明.md)**。
+
+**办法 B — 一行命令**:Windows `irm .../install.ps1 | iex`,Mac/Linux `curl .../install.sh | bash`。详见 **[安装说明.md](安装说明.md)**。
+
+装好后,直接告诉 AI:
 
 > "用横纵分析法研究 [你的关键词]"
 
