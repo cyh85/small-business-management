@@ -1,4 +1,4 @@
-# 横纵分析法 · 教学版
+﻿# 横纵分析法 · 教学版
 
 > **Horizontal-Vertical Analysis Framework · Teaching Edition**
 > 一套用于系统性研究产品、公司、概念或人物的双轴分析框架。
@@ -102,11 +102,9 @@ Skill 会自动:
 │       │   └── schema.json           ← 输出结构定义(JSON Schema)
 │       └── scripts/
 │           └── md_to_pdf.py          ← Markdown → PDF 转换
-└── examples/                         ← (待补充)样例报告
-    ├── 值得买_横纵分析报告.pdf
-    ├── 什么值得买的AI战略.pdf
-    ├── 小值购物助手.pdf
-    └── 电商导购行业.pdf
+├── examples/                         ← 样例报告
+    ├── 值得买_横纵分析报告.md
+    └── 值得买_横纵分析报告.pdf
 ```
 
 ---
@@ -173,8 +171,8 @@ Skill 会自动:
 
 ## 教学资源
 
-- **主案例 PDF**:参见 `值得买_正文案例.pdf`(来自中国管理案例共享中心)
-- **样例报告**:参见 `examples/` 目录(待补充)
+- **主案例 PDF**:参见 `STR-2480正文案例.pdf`(来自中国管理案例共享中心)
+- **样例报告**:参见 `examples/` 目录(值得买_横纵分析报告)
 - **方法论溯源**:参见 `skills/hv-analysis/SKILL.md`
 
 ---
