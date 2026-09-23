@@ -1,0 +1,14 @@
+# 统一换行：文本文件在仓库里一律存 LF，检出到任何平台也都是 LF
+* text=auto eol=lf
+
+# 二进制文件不做换行转换、不做文本 diff
+*.pdf   binary
+*.pptx  binary
+*.docx  binary
+*.xlsx  binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.zip   binary
+*.ico   binary
